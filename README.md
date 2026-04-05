@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="#download"><img src="https://img.shields.io/badge/Download-Free-38bdf8?style=for-the-badge&logo=apple&logoColor=white" alt="Download Free"></a>
+  <a href="https://habitus.choiszt.com"><img src="https://img.shields.io/badge/Website-habitus.choiszt.com-38bdf8?style=for-the-badge" alt="Website"></a>
+  <a href="https://habitus.choiszt.com/#download"><img src="https://img.shields.io/badge/Download-Free-38bdf8?style=for-the-badge&logo=apple&logoColor=white" alt="Download Free"></a>
   <img src="https://img.shields.io/badge/macOS_14+-required-1e3a5f?style=for-the-badge" alt="macOS 14+">
   <img src="https://img.shields.io/badge/version-v0.1.0-505878?style=for-the-badge" alt="v0.1.0">
 </p>
@@ -109,7 +110,7 @@ Suggestions arrive as native macOS notifications. Accept, dismiss, or ignore —
 
 No subscription. No account. No trial period.
 
-[Download Habitus v0.1.0 for macOS →](#)
+[Download Habitus v0.1.0 for macOS →](https://habitus.choiszt.com/#download)
 
 ---
 
