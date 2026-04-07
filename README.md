@@ -1,13 +1,16 @@
 <div align="center">
 
-# Habitus
+<img src="assets/logo.png" width="140" alt="Habitus">
+
+<img src="assets/wordmark.svg" width="600" alt="HABITUS">
 
 **Your AI agents should learn how you work — not the other way around.**
 
 *Bottom-up behavioral profiling from file-system traces, screen recordings, and content deltas.*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Product Page](https://img.shields.io/badge/🌐_Product_Page-habitus.choiszt.com-38bdf8?style=flat-square)](https://habitus.choiszt.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg?style=flat-square)](https://www.python.org/downloads/)
 
 [Features](#features) · [Architecture](#architecture) · [Quick Start](#quick-start) · [How It Works](#how-it-works) · [Comparison](#comparison) · [Paper](#academic-foundation)
 

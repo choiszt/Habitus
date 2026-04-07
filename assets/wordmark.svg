@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="25%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="75%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="400" y="100"
+        font-family="'JetBrains Mono', 'Courier New', monospace"
+        font-size="96"
+        font-weight="900"
+        fill="url(#grad)"
+        text-anchor="middle"
+        letter-spacing="2"
+        filter="url(#glow)">HABITUS</text>
+  <text x="400" y="140"
+        font-family="'JetBrains Mono', 'Courier New', monospace"
+        font-size="14"
+        font-weight="500"
+        fill="#64748b"
+        text-anchor="middle"
+        letter-spacing="6">BEHAVIORAL · INTELLIGENCE</text>
+</svg>
