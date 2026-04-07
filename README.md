@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="140" alt="Habitus">
-
-<img src="assets/wordmark.svg" width="600" alt="HABITUS">
+<img src="assets/banner.svg" width="900" alt="Habitus">
 
 **Your AI agents should learn how you work — not the other way around.**
 
