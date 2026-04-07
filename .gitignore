@@ -1,0 +1,19 @@
+# Track only README.md and assets/ — everything else is private.
+
+# Ignore everything at root by default
+/*
+
+# Explicitly allow what's public
+!/.gitignore
+!/README.md
+!/assets/
+!/.git
+
+# macOS / editor junk (belt-and-suspenders)
+.DS_Store
+._*
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
